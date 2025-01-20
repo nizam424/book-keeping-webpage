@@ -25,18 +25,13 @@ QuickBooks is a simple bookkeeping system designed to demonstrate  development c
 
 
 ### Technical Stack
-- **Frontend:**
+
   - React.js with JavaScript
   - State Management: React Hooks
   - Styling: Tailwind CSS
   - Data Visualization: Recharts
   - Real-time Updates: WebSocket ready
 
-- **Backend Design:** (Architecture Only)
-  - RESTful API Design
-  - Node.js/Express or Python/Django
-  - PostgreSQL/MongoDB for data storage
-  - AWS S3 for file storage
 
 ## Features Implemented
 
