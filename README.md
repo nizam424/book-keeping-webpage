@@ -3,7 +3,7 @@
 1. Clone the repository
 ```bash
 git clone https://github.com/nizam424/book-keeping-webpage.git
-cd QuickBooks
+cd book-keeping-webpage
 ```
 
 2. Install dependencies
